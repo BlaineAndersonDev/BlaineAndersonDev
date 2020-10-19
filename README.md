@@ -1,4 +1,6 @@
-### Hi there 👋
+### Blaine Anderson
+
+<a href="https://www.learnenough.com/certificates/BlaineAndersonDev"><img src="https://www.learnenough.com/certificates/BlaineAndersonDev/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a>
 
 <!--
 **BlaineAndersonDev/BlaineAndersonDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
